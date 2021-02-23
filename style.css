@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 28px;
+}
+
+img {
+    width: 700px;
+}
+
+a {
+    color: white;
+}
+
+div {
+    margin: auto;
+    width: 800px;
+    text-align: center;
+}
